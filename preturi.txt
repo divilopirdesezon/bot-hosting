@@ -1,0 +1,55 @@
+📦 Planuri VPS (X2 Xeon Gold 6262)
+
+🟢 VPS 1
+- 2 Core
+- 3 GB RAM
+- 25 GB NVMe
+- 3€/lună
+
+🟢 VPS 2
+- 3 Core
+- 5 GB RAM
+- 50 GB NVMe
+- 6€/lună
+
+🟢 VPS 3
+- 3 Core
+- 10 GB RAM
+- 100 GB NVMe
+- 9€/lună
+
+🟢 VPS 4
+- 5 Core
+- 20 GB RAM
+- 140 GB NVMe
+- 15€/lună
+
+🌐 Planuri Web Hosting
+
+🔵 Web Start
+- 2 GB SSD
+- Trafic nelimitat
+- 1 domeniu inclus
+- 1 cont e-mail
+- 1€/lună
+
+🔵 Web Basic
+- 5 GB SSD
+- Trafic nelimitat
+- 2 domenii
+- 5 conturi e-mail
+- 2.5€/lună
+
+🔵 Web Plus
+- 10 GB SSD
+- Trafic nelimitat
+- 5 domenii
+- 10 conturi e-mail
+- 4.5€/lună
+
+🔵 Web Pro
+- 20 GB SSD
+- Trafic nelimitat
+- Domenii nelimitate
+- E-mail nelimitat
+- 6.5€/lună
